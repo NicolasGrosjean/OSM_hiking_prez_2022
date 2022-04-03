@@ -58,8 +58,9 @@ TODO :  put some images of Vercors and Grenoble boards
 
 [WaymarkedTrails](https://hiking.waymarkedtrails.org/#?map=13.0/45.1853/5.7595) displays the data for some thems like hikings.
 
-TODO : Add image from GitHub
+---
 
+![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/WaymarkedTrails_Grenoble.jpg)
 
 ---
 
@@ -80,11 +81,15 @@ The hikings routes are rendered according their types
 
 We can click on a route to inspect the OSM object.
 
-TODO : Add images from GitHub
+---
+
+![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/WaymarkedTrails_Guidepost.jpg)
+
+![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/WaymarkedTrails_Route.jpg)
 
 ---
 
-# 💻 Brouter - global view
+# 💻 Brouter
 
 [Brouter](https://brouter.de/brouter-web/#map=13/45.1802/5.7512/OpenTopoMap,Waymarked_Trails-Hiking&profile=hiking-beta) allow to plan trip for several mean of transport.
 
@@ -96,13 +101,12 @@ We can export the GPX track.
 
 ---
 
-# 💻 Brouter - example
+![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/Brouter.jpg)
 
-TODO : Add image from GitHub
 
 ---
 
-# 💻 GraphHopper - global view
+# 💻 GraphHopper
 
 [GraphHopper](https://graphhopper.com/maps/?point=&point=&locale=fr&elevation=true&profile=foot&use_miles=false&layer=Omniscale) allow to plan trip for several mean of transport.
 
@@ -114,9 +118,7 @@ We can export the GPX track.
 
 ---
 
-# 💻 GraphHopper - example
-
-TODO : Add image from GitHub
+![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/GraphHopper.jpg)
 
 ---
 
