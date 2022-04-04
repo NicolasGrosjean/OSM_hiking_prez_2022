@@ -36,17 +36,13 @@ About this presentation:
 
 ---
 
-# 🥾 Hiking on the field
-
-TODO :  put some images
-
----
-
 # 🥾 Node networks
 
 In Isère the routes are described according a Node Network (Réseau de Carrefours en français), it is not the case everywhere.
 
-TODO :  put some images of Vercors and Grenoble boards
+---
+
+![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/Guidepost.jpg)
 
 ---
 
@@ -148,6 +144,11 @@ TODO : Find it again + add image
 
 # 📷 Photos
 
+You can take geolocalised photos of guideposts and upload them to some websites.
+
+- Wikimedia Commons : a cetegory by department, [for example for Isère's guideposts](https://commons.wikimedia.org/wiki/Category:Hiking_and_footpath_fingerposts_in_Is%C3%A8re?uselang=fr)
+- [Mapillary](https://www.mapillary.com/)
+
 ---
 
 # 💻 JOSM
@@ -160,6 +161,15 @@ Several concepts :
 - Node of the network
 - Route between nodes
 - Network (a Community of Municipalities + an activity = a network)
+
+Work in progress on the way to map and on the mapping completion in France.
+
+---
+
+# 💻 OpenData in Isère
+
+- [Metro](https://data.metropolegrenoble.fr/ckan/dataset/espnat_sentier_chemins_metro)
+- [Department](https://opendata.isere.fr/explore/dataset/plan-departemental-des-itineraires-de-promenades-et-de-randonnees-departement-de/information/)
 
 ---
 
