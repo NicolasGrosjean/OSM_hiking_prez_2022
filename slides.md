@@ -131,9 +131,7 @@ You can set several profile, and so dedicate one for hiking.
 
 We can add WaymarkedTrails in the overlayer of a map with the Topo style.
 
----
-
-![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/OsmAndWaymarkedTrails.jpg)
+![bg right fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/OsmAndWaymarkedTrails.jpg)
 
 ---
 
@@ -143,9 +141,7 @@ A contributor on the OSM Plein Air Telegram shared a [hike style](https://github
 
 It uses the tags _trail_visibility_ and _sac_scale_.
 
----
-
-![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/OsmAndHikingStyle.jpg)
+![bg right fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/OsmAndHikingStyle.jpg)
 
 ---
 
