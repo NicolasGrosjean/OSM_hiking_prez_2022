@@ -118,23 +118,45 @@ We can export the GPX track.
 
 ---
 
-# 📱 OsmAnd - global view
+# 📱 OsmAnd
+
+Download map to see them offline
+(with no download limit with OpenSource version downlable with FDroid).
+
+You can set several profile, and so dedicate one for hiking.
 
 ---
 
 # 📱 OsmAnd - WaymarkedTrails
 
+We can add WaymarkedTrails in the overlayer of a map with the Topo style.
+
 ---
 
-# 📱 OsmAnd - Hinking Render
+![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/OsmAndWaymarkedTrails.jpg)
 
-A plugin was shared on OSM Plein Air to render the hiking path.
+---
 
-TODO : Find it again + add image
+# 📱 OsmAnd - Hinking Style
+
+A contributor on the OSM Plein Air Telegram shared a [hike style](https://github.com/Hades1503/OsmAnd_Hiking_Map).
+
+It uses the tags _trail_visibility_ and _sac_scale_.
+
+---
+
+![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/OsmAndHikingStyle.jpg)
 
 ---
 
 # 📱 OsmAnd - Load GPX track
+
+We can load the GPX track we have generated with Brouter, GraphHopper, ...
+or found on the internet.
+
+Simply put the file on your smartphone and open it with OsmAnd.
+
+You can change the track color in the map settings.
 
 ---
 
@@ -176,6 +198,8 @@ Work in progress on the way to map and on the mapping completion in France.
 # 💠 Appendix
 
 * [Groupe Telegram Plein Air](https://t.me/osmpleinair)
+* [Tutoriel d'installation d'OSMAnd et de traces GPX](https://github.com/Binnette/GAC/tree/main/TutoOsmAnd)
+* [OsmAnd hike style](https://github.com/Hades1503/OsmAnd_Hiking_Map)
 * On OSM wiki:
   * [Projet Plein Air](https://wiki.openstreetmap.org/wiki/FR:Projet_Plein_Air)
   * [Réseaux de carrefours](https://wiki.openstreetmap.org/wiki/FR:R%C3%A9seaux_de_carrefours)
@@ -187,5 +211,9 @@ Work in progress on the way to map and on the mapping completion in France.
 # 💡 Any question ?
 
 * Feel free to contact us by private message:
-  * On OSM: https://www.osm.org/user/NicolasGrosjean https://www.osm.org/user/Binnette
-  * On the Wiki: https://wiki.openstreetmap.org/wiki/User:grosjen https://wiki.openstreetmap.org/wiki/User:Binnette
+  * On OSM:
+    * https://www.osm.org/user/NicolasGrosjean
+    * https://www.osm.org/user/Binnette
+  * On the Wiki:
+    * https://wiki.openstreetmap.org/wiki/User:grosjen
+    * https://wiki.openstreetmap.org/wiki/User:Binnette
