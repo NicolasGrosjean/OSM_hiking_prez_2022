@@ -42,7 +42,7 @@ In Isère the routes are described according a Node Network (Réseau de Carrefou
 
 ---
 
-![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/Guidepost.jpg)
+![bg fit](https://raw.githubusercontent.com/NicolasGrosjean/OSM_hiking_prez_2022/main/images/Guideposts.jpg)
 
 ---
 
