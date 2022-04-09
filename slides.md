@@ -186,7 +186,9 @@ Work in progress on the way to map and on the mapping completion in France.
 
 # 💻 OpenData in Isère
 
-- [Metro](https://data.metropolegrenoble.fr/ckan/dataset/espnat_sentier_chemins_metro)
+- Métropole :
+  - [Sentier](https://data.metropolegrenoble.fr/ckan/dataset/espnat_sentier_chemins_metro)
+  - [Panneaux](https://data.metropolegrenoble.fr/ckan/dataset/espnat_sentier_poteaux_metro)
 - [Department](https://opendata.isere.fr/explore/dataset/plan-departemental-des-itineraires-de-promenades-et-de-randonnees-departement-de/information/)
 
 ---
